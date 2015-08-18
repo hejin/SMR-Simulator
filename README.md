@@ -8,7 +8,7 @@ With host managed SMR device, the host uses commands and Zone information to opt
 
 ## Linux Stack from the Perspective of the Simulator
 
-![Linux stack from the perspective of the simulator.](https://github.com/westerndigitalcorporation/WDC-SMR-Simulator/blob/master/documentation/specifications/graphics/linux_stack_from_the_perspective_of_the_simulator.png)
+![Linux stack from the perspective of the simulator.](https://github.com/westerndigitalcorporation/SMR-Simulator/blob/master/documentation/specifications/graphics/linux_stack_from_the_perspective_of_the_simulator.png)
 
 # Software Requirements
 
@@ -36,7 +36,7 @@ With host managed SMR device, the host uses commands and Zone information to opt
 
 ## Simulated Device
 
-![Simulated Device](https://github.com/westerndigitalcorporation/WDC-SMR-Simulator/blob/master/documentation/specifications/graphics/simulated_device.png)
+![Simulated Device](https://github.com/westerndigitalcorporation/SMR-Simulator/blob/master/documentation/specifications/graphics/simulated_device.png)
 
 # Overview
 
@@ -56,7 +56,7 @@ A Device Mapper kernel module emulates a SMR device and provides a set of ioctls
 
 ## Flow Chart
 
-![Flow Chart](https://github.com/westerndigitalcorporation/WDC-SMR-Simulator/blob/master/documentation/specifications/graphics/flow_chart_zacsimkmd_kernel_module.png)
+![Flow Chart](https://github.com/westerndigitalcorporation/SMR-Simulator/blob/master/documentation/specifications/graphics/flow_chart_zacsimkmd_kernel_module.png)
 
 ## Tracepoints
 
