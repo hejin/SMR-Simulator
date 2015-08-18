@@ -1,0 +1,12 @@
+# Editors
+*.swp
+
+# Compilers
+*.ko
+*.ko.cmd
+*.o.cmd
+Module.symvers
+modules.order
+*.mod.c
+*.o
+.tmp_versions
